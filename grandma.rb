@@ -2,7 +2,7 @@
 # # Write a speak_to_grandma method.
 def speak_to_grandma(string)
   
-  if (string) == (string.downcase)
+  if string == (string.downcase)
      => "HUH?! SPEAK UP, SONNY!"
     
   else if (string) == (string.upcase)
