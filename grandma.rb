@@ -2,17 +2,17 @@
 # # Write a speak_to_grandma method.
 def speak_to_grandma(string)
   
-  if string == string("I LOVE YOU GRANDMA!")
+  if string == "I LOVE YOU GRANDMA!"
      "I LOVE YOU TOO PUMPKIN!"
     
     
   else if string.upcase == string
       "NO, NOT SINCE 1938!"
   
-  else  == 
+  else
       "HUH?! SPEAK UP, SONNY!"
 end
-
+end
 
 
 
