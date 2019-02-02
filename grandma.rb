@@ -2,14 +2,14 @@
 # # Write a speak_to_grandma method.
 def speak_to_grandma(string)
   
-  if string == (string.downcase)
-     => "HUH?! SPEAK UP, SONNY!"
+  if string == string
+      "HUH?! SPEAK UP, SONNY!"
     
-  else if (string) == (string.upcase)
-    =>  "NO, NOT SINCE 1938!"
+  else if string.upcase == string.upcase
+      "NO, NOT SINCE 1938!"
   
-  else (string) == ("I LOVE YOU GRANDMA!")
-    => "I LOVE YOU TOO PUMPKIN!"
+  else  == ("I LOVE YOU GRANDMA!")
+     "I LOVE YOU TOO PUMPKIN!"
     
 end
 
